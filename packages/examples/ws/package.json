@@ -16,6 +16,6 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "cyberserver": "^1.0.11"
+    "cyberserver": "^1.0.12"
   }
 }
